@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleMastery.UnitTest", "ScaleMastery.UnitTest\ScaleMastery.UnitTest.csproj", "{1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleMastery", "ScaleMastery\ScaleMastery.csproj", "{718F48C1-5DB1-4986-B533-5990F0C91A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718F48C1-5DB1-4986-B533-5990F0C91A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F48C1-5DB1-4986-B533-5990F0C91A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718F48C1-5DB1-4986-B533-5990F0C91A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718F48C1-5DB1-4986-B533-5990F0C91A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

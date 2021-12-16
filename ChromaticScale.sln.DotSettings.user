@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1f6d84e3_002Dd9ac_002D44ee_002Da709_002Dead6a5044258/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SetCurrent" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9::net6.0::ChromaticS.UnitTest.CircularSequenceTest.SetCurrent&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=254c536f_002D13d8_002D4f30_002D982f_002Db847dabc3f9d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircularSequenceTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9::net6.0::ScaleMastery.UnitTest.ChromaticScaleTests.CanCreateInstance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b87de13c_002D0404_002D47c1_002D9f9c_002D6fa17b0e3bb8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9::net6.0::ChromaticS.UnitTest.CircularSequenceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb37bf84_002D62c3_002D4367_002Db93a_002D4849f1dbb8cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircularSequenceTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9::net6.0::ChromaticS.UnitTest.CircularSequenceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e803f67d_002D9a5a_002D4cb7_002Dbc4d_002Dde3b9fd2a248/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CircularSequenceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1AFADDE1-2DC2-4623-8137-7BABF0BFF8D9::net6.0::ChromaticS.UnitTest.CircularSequenceTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
